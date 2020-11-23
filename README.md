@@ -1,11 +1,13 @@
 ### Assem Chelli
-A senior software engineer, I use mainly Python and JS. 
+A senior software engineer, mainly backend using Python and JS. I am more of a ship builder than a ship maintainer.
 
-My focus areas:
-- Product infrastructure
+
+I had experience with those domains: 
+- Ecommerce
+- Delivery
+- Raid hailing
 - Search and Arabic NLP
 
-# For open source enthuists
 
 # For students / fresh graduates
-check this organization, I have some projects there for learning purpose
+Check this organization [Unchained Community](https://github.com/UnchainedCommunity), I have some projects there for learning purpose. Choose any project, and run it locally, then contact me. 
