@@ -1,4 +1,4 @@
-## Assem Chelli (عاصم شلي)
+## Assem Chelli
 
 A senior software engineer, mainly backend using Python and JS. I am more of a ship builder than a ship maintainer.
 
