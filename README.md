@@ -11,5 +11,5 @@ I had experience with those domains:
 The stack I prefer to work with:
 - Django or FastAPI / ReactJS / React-Native
 
-# For students / fresh graduates
+# For students
 Check this organization [Unchained Community](https://github.com/UnchainedCommunity), I have some projects there for learning purpose. Choose any project, and run it locally, then contact me. 
