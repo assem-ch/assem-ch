@@ -5,7 +5,7 @@ A senior software engineer, mainly backend using Python and JS. I am more of a s
 I've experience in those domains: 
 - Ecommerce
 - Delivery
-- Raid hailing
+- Ride hailing
 - Search and Arabic NLP
 
 The stack I prefer to work with:
