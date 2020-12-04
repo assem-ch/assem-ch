@@ -9,4 +9,6 @@ I've experience in those domains:
 - Search and Arabic NLP
 
 The stack I prefer to work with:
-- Django or FastAPI / ReactJS / React-Native
+- Backned: Django,  FastAPI, Node.js
+- Web: ReactJS 
+- Mobile: React-Native
