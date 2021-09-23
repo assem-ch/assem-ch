@@ -8,5 +8,5 @@ I've experience in those domains:
 - Ride hailing
 - Search and Arabic NLP
 
-The stack I prefer to work with: Django,  FastAPI, Node.js
+The stack I prefer to work with:   FastAPI, Django, Node.js
 
