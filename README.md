@@ -8,7 +8,7 @@ I've experience in those domains:
 - Ride hailing
 - Search and Arabic NLP
 
-The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You may check my starred lists [here]<https://github.com/assem-ch?tab=stars>.  
+The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You may check my starred lists [here](https://github.com/assem-ch?tab=stars).  
 
 ### Active projects that I maintain
 - [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot), a django admin based on django-jet that actually supports django 3.0 and django 4.0.
