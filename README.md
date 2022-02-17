@@ -11,7 +11,7 @@ I've experience in those domains:
 The stack I prefer to work with: FastAPI, Django,  Node.js
 
 ## Active projects
-- [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot), A django admin based on django-jet that actually supports django 3.0 and django 4.0.
+- [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot), a django admin based on django-jet that actually supports django 3.0 and django 4.0.
 
 
 ### For students and fresh graduates
