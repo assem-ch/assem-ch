@@ -11,4 +11,4 @@ I've experience in those domains:
 The stack I prefer to work with: FastAPI, Django,  Node.js
 
 ### For students and fresh graduates
-If you are working in the stack:  python, react, react-native, and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
+If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
