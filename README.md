@@ -8,14 +8,15 @@ I've experience in those domains:
 - Ride hailing
 - Search and Arabic NLP
 
-The stack I prefer to work with: FastAPI, Django,  Node.js
+The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You may check my starred lists [here]<https://github.com/assem-ch?tab=stars>.  
 
 ### Active projects that I maintain
 - [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot), a django admin based on django-jet that actually supports django 3.0 and django 4.0.
-
+- [arabicstemmer](https://github.com/assem-ch/arabicstemmer), an Arabic Light Stemmer aimed mainly to improve search.
 
 ### For students and fresh graduates
 If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
+
 
 
 
