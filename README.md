@@ -24,8 +24,19 @@ If you have some knowledge in the stack:  python, react, react-native , and look
   - Explore alogrithmics:[top-25-algorithms-every-programmer-should-know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
   - [Django quick start](https://www.djangoproject.com/start/)
   - [Django Rest framework quick start](https://www.django-rest-framework.org/tutorial/quickstart/)
-  - [Build your first rest app](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)
-  - Build few apps without following any tutorial, example TODO app (create tasks, assign , change status, archive , list tasks with filters), and deploy them in an online server
+  - Build your first rest apps: [1](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c),[2 (using tdd approach)](https://medium.com/the-andela-way/test-driven-development-with-django-ccb179171dcd)
+  - Build few apps without following any tutorial, example:
+    1. TODO app api
+       - create tasks
+       - assign taks to a user
+       - change task status
+       - archive status 
+       - list tasks with filters and pagination
+       - write unit tests 
+       - deploy to an online server
+       - provide api doc (swagger)
+       - ask a senior dev to review your code
+
   - [Go through SQL](https://www.w3schools.com/sql/)
   - Acquire security basics: [10-tips-making-django-admin-more-secure](//opensource.com/article/18/1/10-tips-making-django-admin-more-secure), [django security](https://docs.djangoproject.com/en/4.0/topics/security/)
   - [Discover Django libraries](https://github.com/stars/assem-ch/lists/django)
