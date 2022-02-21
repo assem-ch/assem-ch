@@ -17,7 +17,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 ### For students and fresh graduates
 If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
 
-- Basic training for Django backend
+- **Basic training for Django backend**
   - [Python Basic Tutorial](https://www.w3schools.com/python/default.asp)
   - [Git intro](https://rogerdudler.github.io/git-guide/)
   - Problem solving: Solve at least the first 20 problems of [project euler](https://projecteuler.net/problem=1)
@@ -26,7 +26,7 @@ If you have some knowledge in the stack:  python, react, react-native , and look
   - [Django Rest framework quick start](https://www.django-rest-framework.org/tutorial/quickstart/)
   - Build few rest apps: [first](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c),[second (using tdd approach)](https://medium.com/the-andela-way/test-driven-development-with-django-ccb179171dcd)
   - Build few apps without following any tutorial, example:
-    1. TODO app api
+    1. **TODO app api**
        - create tasks
        - assign taks to a user
        - change task status
