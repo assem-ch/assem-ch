@@ -24,7 +24,7 @@ If you have some knowledge in the stack:  python, react, react-native , and look
   - Explore alogrithmics:[top-25-algorithms-every-programmer-should-know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
   - [Django quick start](https://www.djangoproject.com/start/)
   - [Django Rest framework quick start](https://www.django-rest-framework.org/tutorial/quickstart/)
-  - Build your first rest apps: [1](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c),[2 (using tdd approach)](https://medium.com/the-andela-way/test-driven-development-with-django-ccb179171dcd)
+  - Build few rest apps: [first](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c),[second (using tdd approach)](https://medium.com/the-andela-way/test-driven-development-with-django-ccb179171dcd)
   - Build few apps without following any tutorial, example:
     1. TODO app api
        - create tasks
