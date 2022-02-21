@@ -17,6 +17,19 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 ### For students and fresh graduates
 If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
 
+- Basic training for Django backend
+  - [Python Basic Tutorial](https://www.w3schools.com/python/default.asp)
+  - [Git intro](https://rogerdudler.github.io/git-guide/)
+  - Problem solving: Solve at least the first 20 problems of [project euler](https://projecteuler.net/problem=1)
+  - Explore alogrithmics:[top-25-algorithms-every-programmer-should-know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
+  - [Django quick start](https://www.djangoproject.com/start/)
+  - [Django Rest framework quick start](https://www.django-rest-framework.org/tutorial/quickstart/)
+  - [Build your first rest app](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)
+  - Build few apps without following any tutorial, example TODO app (create tasks, assign , change status, archive , list tasks with filters), and deploy them in an online server
+  - [Go through SQL](https://www.w3schools.com/sql/)
+  - Acquire security basics: [10-tips-making-django-admin-more-secure](//opensource.com/article/18/1/10-tips-making-django-admin-more-secure), [django security](https://docs.djangoproject.com/en/4.0/topics/security/)
+  - [Discover Django libraries](https://github.com/stars/assem-ch/lists/django)
+  - [Get familar with Design patterns and antipatterns](https://sourcemaking.com/design_patterns)
 
-
+** Suggests are welcome, feel free to send a PR.
 
