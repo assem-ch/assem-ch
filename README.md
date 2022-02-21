@@ -30,7 +30,7 @@ If you have some knowledge in the stack:  python, react, react-native , and look
        - create tasks
        - assign taks to a user
        - change task status
-       - archive status 
+       - archive task
        - list tasks with filters and pagination
        - write unit tests 
        - deploy to an online server
@@ -40,7 +40,8 @@ If you have some knowledge in the stack:  python, react, react-native , and look
   - [Go through SQL](https://www.w3schools.com/sql/)
   - Acquire security basics: [10-tips-making-django-admin-more-secure](//opensource.com/article/18/1/10-tips-making-django-admin-more-secure), [django security](https://docs.djangoproject.com/en/4.0/topics/security/)
   - [Discover Django libraries](https://github.com/stars/assem-ch/lists/django)
-  - [Get familar with Design patterns and antipatterns](https://sourcemaking.com/design_patterns)
+  - [Explore Design patterns and antipatterns](https://sourcemaking.com/design_patterns)
+  - Train on interviews to land your first job: [python for freshers](https://www.interviewbit.com/python-interview-questions/#freshers), [django basic](https://www.interviewbit.com/django-interview-questions/#django-basic-questions)
 
 ** Suggestions are welcome, feel free to send a PR.
 
