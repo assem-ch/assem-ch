@@ -31,5 +31,5 @@ If you have some knowledge in the stack:  python, react, react-native , and look
   - [Discover Django libraries](https://github.com/stars/assem-ch/lists/django)
   - [Get familar with Design patterns and antipatterns](https://sourcemaking.com/design_patterns)
 
-** Suggests are welcome, feel free to send a PR.
+** Suggestions are welcome, feel free to send a PR.
 
