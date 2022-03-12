@@ -35,7 +35,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/assem-ch/arabicstemmer">django-admin-interface</a>
+                <a href="https://github.com/assem-ch/arabicstemmer">arabicstemmer</a>
             </td>
                     <td>
                  an Arabic Light Stemmer aimed mainly to improve search.
