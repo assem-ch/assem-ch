@@ -53,8 +53,8 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 
 ### For students and fresh graduates
 If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
-
-- **Basic training for Django backend**
+- **Basic training for React-Native mobile dev**: check [Moumene](https://github.com/Moumene)
+- **Basic training for Django backend dev**
   - [Python Basic Tutorial](https://www.w3schools.com/python/default.asp)
   - [Git intro](https://rogerdudler.github.io/git-guide/)
   - Problem solving: Solve at least the first 20 problems of [project euler](https://projecteuler.net/problem=1)
