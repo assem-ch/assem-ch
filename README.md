@@ -1,6 +1,6 @@
 ## Assem Chelli
 
-A senior software engineer, mainly backend using Python and JS. I am more of a ship builder than a ship maintainer.
+A tech lead, mainly backend using Python and JS. I am more of a ship builder than a ship maintainer.
 
 <!-- follow my new twitter account: [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
  -->
