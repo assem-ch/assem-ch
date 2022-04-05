@@ -23,12 +23,13 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
             <td>
                 <a href="https://github.com/assem-ch/django-fast-api">django-fast-api</a> <br/> (Experimental)
             </td>
-                    <td>
+           <td>
                  Few hacks to speed up defining apis based on django rest framwork, inspired from fastapi. 
                  <br/> Please give it a try and let me know your feedback.
           </td>
             <td>
                 <a href="https://github.com/assem-ch/django-fast-api/stargazers"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
+                <br/><a href="https://pypi.org/project/django-fast-api/"><img src="https://img.shields.io/pypi/dm/django-fast-api.svg?style=flat-square" /></a>
             </td>
             <td>
                 <a href="https://github.com/assem-ch/django-fast-api/issues"><img src="https://img.shields.io/github/issues/assem-ch/django-fast-api" /></a>
@@ -43,6 +44,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
           </td>
             <td>
                 <a href="https://github.com/assem-ch/django-jet-reboot/stargazers"><img src="https://img.shields.io/github/stars/assem-ch/django-jet-reboot" /></a>
+              <br/>  <a href="https://pypi.org/project/django-jet-reboot/"><img src="https://img.shields.io/pypi/dm/django-jet-reboot.svg?style=flat-square" /></a>
             </td>
             <td>
                 <a href="https://github.com/assem-ch/django-jet-reboot/issues"><img src="https://img.shields.io/github/issues/assem-ch/django-jet-reboot" /></a>
