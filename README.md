@@ -21,6 +21,21 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
     <tbody>
         <tr>
             <td>
+                <a href="https://github.com/assem-ch/django-fast-api">django-fast-api</a> <br/> (Experimental)
+            </td>
+                    <td>
+                 Few hacks to speed up defining apis based on django rest framwork, inspired from fastapi. 
+                 <br/> Please give it a try and let me know your feedback.
+          </td>
+            <td>
+                <a href="https://github.com/assem-ch/django-fast-api/stargazers"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/assem-ch/django-fast-api/issues"><img src="https://img.shields.io/github/issues/assem-ch/django-fast-api" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/assem-ch/django-jet-reboot">django-jet-reboot</a>
             </td>
           <td>
