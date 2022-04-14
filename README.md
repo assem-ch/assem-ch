@@ -28,7 +28,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
                  <br/> Please give it a try and let me know your feedback.
           </td>
             <td>
-                <a href="https://github.com/assem-ch/django-fast-api/stargazers"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
+                <a href="https://github.com/assem-ch/django-fast-api"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
                 <br/><a href="https://pypi.org/project/django-fast-api/"><img src="https://img.shields.io/pypi/dm/django-fast-api.svg?style=flat-square" /></a>
             </td>
             <td>
@@ -43,7 +43,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
                   a django admin based on django-jet that actually supports django 3.0 and django 4.0.
           </td>
             <td>
-                <a href="https://github.com/assem-ch/django-jet-reboot/stargazers"><img src="https://img.shields.io/github/stars/assem-ch/django-jet-reboot" /></a>
+                <a href="https://github.com/assem-ch/django-jet-reboot"><img src="https://img.shields.io/github/stars/assem-ch/django-jet-reboot" /></a>
               <br/>  <a href="https://pypi.org/project/django-jet-reboot/"><img src="https://img.shields.io/pypi/dm/django-jet-reboot.svg?style=flat-square" /></a>
             </td>
             <td>
@@ -58,7 +58,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
                  an Arabic Light Stemmer aimed mainly to improve search.
           </td>
             <td>
-                <a href="https://github.com/assem-ch/arabicstemmer/stargazers"><img src="https://img.shields.io/github/stars/assem-ch/arabicstemmer" /></a>
+                <a href="https://github.com/assem-ch/arabicstemmer"><img src="https://img.shields.io/github/stars/assem-ch/arabicstemmer" /></a>
             </td>
             <td>
                 <a href="https://github.com/assem-ch/arabicstemmer/issues"><img src="https://img.shields.io/github/issues/assem-ch/arabicstemmer" /></a>
