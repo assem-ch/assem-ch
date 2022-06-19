@@ -1,5 +1,3 @@
-## Assem Chelli
-
 A tech lead, mainly backend using Python and JS. I am more of a ship builder than a ship maintainer.
 
 <!-- follow my new twitter account: [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
@@ -69,7 +67,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 
 
 ### For students and fresh graduates
-If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
+<!-- If you have some knowledge in the stack:  python, react, react-native , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.   -->
 - **Basic training for React-Native mobile dev**: check [Moumene's readme](https://github.com/Moumene)
 - **Basic training for Django backend dev**: Check [link](https://github.com/assem-ch/assem-ch/blob/master/backend_django.md)
 
