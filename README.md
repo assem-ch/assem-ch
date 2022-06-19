@@ -1,9 +1,9 @@
-A tech lead, mainly backend using Python and JS. I am more of a ship builder than a ship maintainer.
+
 
 <!-- follow my new twitter account: [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
  -->
 
-I've experience in those domains: 
+I'm mainly backend using Python and JS. I am more of a ship builder than a ship maintainer. I've experience in those domains: 
 - Ecommerce
 - Delivery
 - Ride hailing
