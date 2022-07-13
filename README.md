@@ -71,7 +71,7 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 - **Basic training for React-Native mobile dev**: check [Moumene's readme](https://github.com/Moumene)
 - **Basic training for Django backend dev**: Check [link](https://github.com/assem-ch/assem-ch/blob/master/backend_django.md)
 
-> Suggestions are welcome, feel free to send a PR.
+
 
 <!-- 
 ## Sponsors
