@@ -24,3 +24,6 @@
   - [Discover Django libraries](https://github.com/stars/assem-ch/lists/django)
   - [Explore Design patterns and antipatterns](https://sourcemaking.com/design_patterns)
   - Train on interviews to land your first job: [python for freshers](https://www.interviewbit.com/python-interview-questions/#freshers), [django basic](https://www.interviewbit.com/django-interview-questions/#django-basic-questions)
+
+
+> Suggestions are welcome, feel free to send a PR.
