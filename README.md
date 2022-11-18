@@ -1,15 +1,23 @@
 
 
-<!-- follow my new twitter account: [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
- -->
 
-I'm mainly backend using Python and JS, more of a ship builder than a ship maintainer. I've experience in those domains: 
-- Ecommerce
+
+I'm currently a full-time tech lead, I like to build modern backend APIs. I've experience in those domains: 
+- Ecommerce 
 - Delivery
 - Ride hailing
 - Search and Arabic NLP
+- Clinical Trials
+
+
+Open for external consultancy in: 
+- Building & Auditing indexing and search in Arabic dialects
+- Building startups MVPs
+
 
 The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You may check my starred lists [here](https://github.com/assem-ch?tab=stars).  
+
+### Consultency: 
 
 
 ### Active projects that I maintain
@@ -82,3 +90,8 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 <!--  ### Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=assem-ch&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assem-ch&theme=default)
  -->
+ 
+ 
+Follow my new twitter account: 
+[![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
+
