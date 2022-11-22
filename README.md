@@ -10,14 +10,14 @@ I'm currently a full-time tech lead, I like to build modern backend APIs. I've e
 - Clinical trials
 
 
-Open for external consultancy in: 
+Open for **external consultancy** in: 
 - Building & Auditing indexing and search in Arabic dialects
 - Building MVPs for startups
 
 
 The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You may check my starred lists [here](https://github.com/assem-ch?tab=stars).  
 
-### Consultency: 
+
 
 
 ### Active projects that I maintain
