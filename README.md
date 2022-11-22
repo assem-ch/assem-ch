@@ -91,6 +91,14 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=assem-ch&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assem-ch&theme=default)
  -->
  
+ 
  ### Social media:
 [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
+
+
+And finally...
+
+
+![image](https://user-images.githubusercontent.com/315228/203392878-5d98cad2-8afc-4474-9a58-8f5f8f98c6e3.png)
+
 
