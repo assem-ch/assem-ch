@@ -95,10 +95,3 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
  ### Social media:
 [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
 
-
-And finally...
-
-
-![image](https://user-images.githubusercontent.com/315228/203392878-5d98cad2-8afc-4474-9a58-8f5f8f98c6e3.png)
-
-
