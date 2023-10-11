@@ -36,7 +36,6 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
                 <a href="https://github.com/assem-ch/django-fast-api"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
                 <br/><a href="https://pypi.org/project/django-fast-api/"><img src="https://img.shields.io/pypi/dm/django-fast-api.svg?style=flat-square" /></a>
             </td>
-
         </tr>
         <tr>
             <td>
@@ -49,7 +48,6 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
                 <a href="https://github.com/assem-ch/django-jet-reboot"><img src="https://img.shields.io/github/stars/assem-ch/django-jet-reboot" /></a>
               <br/>  <a href="https://pypi.org/project/django-jet-reboot/"><img src="https://img.shields.io/pypi/dm/django-jet-reboot.svg?style=flat-square" /></a>
             </td>
-     
         </tr>
         <tr>
             <td>
@@ -61,7 +59,6 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
             <td>
                 <a href="https://github.com/assem-ch/arabicstemmer"><img src="https://img.shields.io/github/stars/assem-ch/arabicstemmer" /></a>
             </td>
-   
         </tr>
     </tbody>
 </table>
