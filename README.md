@@ -1,21 +1,10 @@
-
-
-
-
-I'm currently a full-time tech lead, I like to build modern backend APIs. I've experience in those domains: 
-- Ecommerce 
-- Delivery
-- Ride hailing
-- Search and Arabic NLP
-- Clinical trials
+I like to build **modern backend APIs**. I've experience in those domains: **Ecommerce**,**Delivery**, **Ride hailing**, **Search and Arabic NLP**, **Clinical trials**
 
 
 Open for **external consultancy** in: 
-- Building & Auditing indexing and search in Arabic dialects
-- Building MVPs for startups
+- **Building MVPs for startups**
 
-
-The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You may check my starred lists [here](https://github.com/assem-ch?tab=stars).  
+The stack I prefer to work with: **FastAPI**, **Django**,  Node.js, React-native. You may check my starred lists [here](https://github.com/assem-ch?tab=stars).  
 
 
 
@@ -71,16 +60,15 @@ The stack I prefer to work with: FastAPI, Django,  Node.js, React-native. You ma
 
 
 
-<!-- 
-## Sponsors
+
+<!--  ## Sponsors
 
 [![](https://img.shields.io/github/sponsors/assem-ch?color=blueviolet&logo=github&logoColor=white&label=github%20sponsors)](https://github.com/sponsors/assem-ch)
  -->
  
-<!--  ### Activity
+### Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=assem-ch&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assem-ch&theme=default)
- -->
- 
+
  
  ### Social media:
 [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
