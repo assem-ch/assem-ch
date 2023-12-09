@@ -66,10 +66,9 @@ The stack I prefer to work with: **FastAPI**, **Django**,  Node.js, React-native
 [![](https://img.shields.io/github/sponsors/assem-ch?color=blueviolet&logo=github&logoColor=white&label=github%20sponsors)](https://github.com/sponsors/assem-ch)
  -->
  
-### Activity
+<!-- ### Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=assem-ch&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assem-ch&theme=default)
-
- 
+-->
  ### Social media:
 [![](https://img.shields.io/twitter/follow/assem_ch)](https://twitter.com/assem_ch)
 
