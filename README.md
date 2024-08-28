@@ -13,19 +13,7 @@ The stack I prefer to work with: **FastAPI**, **Django**,  Node.js, React-native
  -->
 <table>
     <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/assem-ch/django-fast-api">django-fast-api</a> <br/> (Experimental)
-            </td>
-           <td>
-                 Few hacks to speed up defining apis based on django rest framwork, inspired from fastapi. 
-                 <br/> Please give it a try and let me know your feedback.
-          </td>
-            <td>
-                <a href="https://github.com/assem-ch/django-fast-api"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
-                <br/><a href="https://pypi.org/project/django-fast-api/"><img src="https://img.shields.io/pypi/dm/django-fast-api.svg?style=flat-square" /></a>
-            </td>
-        </tr>
+        
         <tr>
             <td>
                 <a href="https://github.com/assem-ch/django-jet-reboot">django-jet-reboot</a>
@@ -47,6 +35,19 @@ The stack I prefer to work with: **FastAPI**, **Django**,  Node.js, React-native
           </td>
             <td>
                 <a href="https://github.com/assem-ch/arabicstemmer"><img src="https://img.shields.io/github/stars/assem-ch/arabicstemmer" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/assem-ch/django-fast-api">django-fast-api</a> <br/> (Experimental)
+            </td>
+           <td>
+                 Few hacks to speed up defining apis based on django rest framwork, inspired from fastapi. 
+                 <br/> Please give it a try and let me know your feedback.
+          </td>
+            <td>
+                <a href="https://github.com/assem-ch/django-fast-api"><img src="https://img.shields.io/github/stars/assem-ch/django-fast-api" /></a>
+                <br/><a href="https://pypi.org/project/django-fast-api/"><img src="https://img.shields.io/pypi/dm/django-fast-api.svg?style=flat-square" /></a>
             </td>
         </tr>
     </tbody>
