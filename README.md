@@ -13,7 +13,6 @@ The stack I prefer to work with: **FastAPI**, **Django**,  Node.js, React-native
  -->
 <table>
     <tbody>
-        
         <tr>
             <td>
                 <a href="https://github.com/assem-ch/django-jet-reboot">django-jet-reboot</a>
